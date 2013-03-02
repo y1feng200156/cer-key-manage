@@ -22,7 +22,7 @@ import java.io.OutputStream;
 
 /**
  * <p>
- * BASE64编码解码工具包
+ * BASE64编码解码工具包 111  222
  * </p>
  * <p>
  * 依赖javabase64-1.3.1.jar
@@ -98,7 +98,7 @@ public class Base64Utils {
 
     /**
      * <p>
-     * 文件转换为二进制数组
+     * 文件转换为二进制数组 111
      * </p>
      *
      * @param filePath 文件路径
