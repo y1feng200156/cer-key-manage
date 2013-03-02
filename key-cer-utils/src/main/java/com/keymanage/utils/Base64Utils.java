@@ -22,7 +22,7 @@ import java.io.OutputStream;
 
 /**
  * <p>
- * BASE64编码解码工具包 111
+ * BASE64编码解码工具包 111  222
  * </p>
  * <p>
  * 依赖javabase64-1.3.1.jar
